@@ -1,28 +1,23 @@
-# CSC 413 Term Project README
+# CSC 413 Term Project
 
-Name: Kiara Gil
+# Name: Kiara Gil
 
-Email: kgil1@mail.sfsu.edu
+A Classic tank game implemented with Java Swing.
 
-Extra Features:
+The game supports one player tank and several types of Aitank.
 
-- power ups
-- improved AI for smart tank
-- HP tracking and game messages in console.
+All tanks, player or AI, start with 4 HP. 
 
+For player tank: 
 
------------ GAME INFO -----------
+WASD : movement
+            
+Spacebar: shoot,
+	
+Esc: Return to game menu.
 
-The player tank, enemy tanks, and wall all start with 3 HP.
-
-The objective of the game is to kill both enemy tanks.
-
-Each power up at the bottom and top of the screen can be collected by the player during the game.
-Each power up will give the player 2 extra HP, for a total of 7 possible HP.
-
-The walls will disappear from the screen when they lose their 3 HP.
-
-The game ends when either the player is out of HP or both enemy tanks are kill
-
-
-
+Extra features:
+Power up: Players can pick up "Power up" and increase HP by 5 and aouble speed.
+Animations: Add animations when shell hits a target
+Game GUI: HP of all tanks the bottom of the screen.
+Sound Effects: Sound Effects are added
