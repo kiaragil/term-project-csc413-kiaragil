@@ -1,6 +1,6 @@
 # CSC 413 Term Project
 
-# Name: Kiara Gil
+## Name: Kiara Gil
 
 A Classic tank game implemented with Java Swing.
 
@@ -16,7 +16,7 @@ Spacebar: shoot,
 	
 Esc: Return to game menu.
 
-Extra features:
+## Extra features:
 Power up: Players can pick up "Power up" and increase HP by 5 and aouble speed.
 Animations: Add animations when shell hits a target
 Game GUI: HP of all tanks the bottom of the screen.
