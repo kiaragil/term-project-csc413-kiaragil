@@ -18,6 +18,9 @@ Esc: Return to game menu.
 
 ## Extra features:
 Power up: Players can pick up "Power up" and increase HP by 5 and aouble speed.
+
 Animations: Add animations when shell hits a target
+
 Game GUI: HP of all tanks the bottom of the screen.
+
 Sound Effects: Sound Effects are added
