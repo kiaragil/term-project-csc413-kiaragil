@@ -8,7 +8,7 @@ The game supports one player tank and several types of Aitank.
 
 All tanks, player or AI, start with 4 HP. 
 
-For player tank: 
+## HOW TO PLAY
 
 WASD : movement
             
