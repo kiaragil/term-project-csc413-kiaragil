@@ -9,7 +9,7 @@ package edu.csc413.tankgame.model;
 public abstract class Tank extends Entity{
 
     private double MOVEMENT_SPEED = 2.0;
-    private int healthPoint = 7;
+    private int healthPoint = 4;
 
     public Tank(String id, double x, double y, double angle){
         super(id, x, y, angle);
